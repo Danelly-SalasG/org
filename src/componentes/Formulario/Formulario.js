@@ -42,7 +42,7 @@ const Formulario = (props) => {
                 required
                 valor={nombre}
                 actualizarValor={actualizarNombre}
-            />
+            /> 
             <Campo
                 titulo="Puesto"
                 placeholder="Ingresar puesto"
